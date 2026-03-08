@@ -10,7 +10,7 @@
 
 A skill and certification based learning path for DevOps, SRE, Infrastructure and Operations. Each track maps to industry certifications and the free or low cost resources to get you there.
 
-**46 Certifications** | **11 Skill Tracks** | **~$10,787.50 Total Cost** | **40+ Free Resources**
+**56 Certifications** | **13 Skill Tracks** | **~$12,682.50 Total Cost** | **40+ Free Resources**
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=flat&logo=redhat&logoColor=white)
@@ -24,6 +24,8 @@ A skill and certification based learning path for DevOps, SRE, Infrastructure an
 ![CompTIA](https://img.shields.io/badge/CompTIA-C8202F?style=flat&logoColor=white)
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Atlassian](https://img.shields.io/badge/Atlassian-0052CC?style=flat&logo=atlassian&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 </div>
 
@@ -35,7 +37,7 @@ A skill and certification based learning path for DevOps, SRE, Infrastructure an
 
 [How to Use This Repo](#-how-to-use-this-repo) | [Skill Tracks](#-skill-tracks) | [Certification Quick Reference](#-certification-quick-reference) | [Saving Money](#-saving-money-on-certifications) | [Free or Low Cost Resources](#-free-or-low-cost-resources) | [Recommended Reading](#-recommended-reading) | [Community](#-community) | [Contributing](#-contributing) | [License](#-license)
 
-**Skill Tracks:** [1. Tech Fundamentals](#1-tech-fundamentals) | [2. Linux Administration](#2-linux-administration) | [3. Git & SCM](#3-git--source-control-management) | [4. Scripting & Automation](#4-scripting--automation) | [5. Cloud Platforms](#5-cloud-platforms) | [6. Infrastructure as Code](#6-infrastructure-as-code) | [7. CI/CD Pipelines](#7-cicd-pipelines) | [8. Containers & Kubernetes](#8-containers--kubernetes) | [9. Observability & Monitoring](#9-observability--monitoring) | [10. Security & DevSecOps](#10-security--devsecops) | [11. AI & Machine Learning](#11-ai--machine-learning)
+**Skill Tracks:** [1. Tech Fundamentals](#1-tech-fundamentals) | [2. Linux Administration](#2-linux-administration) | [3. Git & SCM](#3-git--source-control-management) | [4. Scripting & Automation](#4-scripting--automation) | [5. Cloud Platforms](#5-cloud-platforms) | [6. Infrastructure as Code](#6-infrastructure-as-code) | [7. CI/CD Pipelines](#7-cicd-pipelines) | [8. Containers & Kubernetes](#8-containers--kubernetes) | [9. Observability & Monitoring](#9-observability--monitoring) | [10. Security & DevSecOps](#10-security--devsecops) | [11. AI & Machine Learning](#11-ai--machine-learning) | [12. API Development & Testing](#12-api-development--testing) | [13. Project Management & ITSM](#13-project-management--itsm)
 
 ---
 
@@ -262,6 +264,42 @@ A skill and certification based learning path for DevOps, SRE, Infrastructure an
 
 </details>
 
+<details>
+<summary><strong>12. API Development & Testing</strong> — 5 certs | ~$650</summary>
+
+<br>
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![MuleSoft](https://img.shields.io/badge/MuleSoft-00A1E0?style=flat&logoColor=white)
+
+**Target Certifications:**
+- [ ] [Postman API Fundamentals Student Expert](https://academy.postman.com/path/postman-api-fundamentals-student-expert) — Free
+- [ ] [Postman API Testing Path Certificate](https://academy.postman.com/page/course-catalog) — Free
+- [ ] [Postman Engineer Learning Path Certificate](https://academy.postman.com/page/course-catalog) — Free
+- [ ] [MuleSoft Integration & API Associate](https://training.mulesoft.com/certification) — $250
+- [ ] [MuleSoft Certified Developer – Level 1](https://training.mulesoft.com/certification) — $400
+
+**What You'll Learn:** API fundamentals, REST & HTTP methods, API testing & automation, Postman collections & environments, CI/CD integration via CLI, API lifecycle management, integration patterns, MuleSoft Anypoint Platform, API-led connectivity
+
+</details>
+
+<details>
+<summary><strong>13. Project Management & ITSM</strong> — 5 certs | ~$1,245</summary>
+
+<br>
+
+![Atlassian](https://img.shields.io/badge/Atlassian-0052CC?style=flat&logo=atlassian&logoColor=white)
+
+**Target Certifications:**
+- [ ] [Atlassian Certified in Jira Administration for Cloud (ACP-120)](https://community.atlassian.com/learning/certifications) — ~$249
+- [ ] [Atlassian Certified in Confluence Administration for Cloud (ACP-220)](https://community.atlassian.com/learning/certifications) — ~$249
+- [ ] [Atlassian Certified in Managing Jira Service Projects for Cloud (ACP-420)](https://community.atlassian.com/learning/certifications) — ~$249
+- [ ] [Atlassian Certified in Cloud Organization Admin (ACP-520)](https://community.atlassian.com/learning/certifications) — ~$249
+- [ ] [Atlassian Certified in Managing Jira Projects for Cloud (ACP-620)](https://community.atlassian.com/learning/certifications) — ~$249
+
+**What You'll Learn:** Jira project configuration, workflows, boards (Scrum/Kanban), Confluence administration, IT service management, incident & change management, SLAs, cloud organization administration, user provisioning, security policies
+
+</details>
+
 ---
 
 ## 📋 Certification Quick Reference
@@ -312,6 +350,16 @@ A skill and certification based learning path for DevOps, SRE, Infrastructure an
 | GitHub Actions | GitHub | ~$99 | Intermediate |
 | GitHub Advanced Security | GitHub | ~$99 | Intermediate |
 | Anthropic Academy (all courses) | Anthropic | Free | Beginner |
+| Postman API Fundamentals Student Expert | Postman | Free | Beginner |
+| Postman API Testing Path | Postman | Free | Intermediate |
+| Postman Engineer Learning Path | Postman | Free | Intermediate |
+| MuleSoft Integration & API Associate | MuleSoft | $250 | Intermediate |
+| MuleSoft Certified Developer L1 | MuleSoft | $400 | Advanced |
+| Atlassian Managing Jira Projects (ACP-620) | Atlassian | ~$249 | Intermediate |
+| Atlassian Jira Administration (ACP-120) | Atlassian | ~$249 | Intermediate |
+| Atlassian Confluence Administration (ACP-220) | Atlassian | ~$249 | Intermediate |
+| Atlassian Managing JSM Projects (ACP-420) | Atlassian | ~$249 | Intermediate |
+| Atlassian Cloud Organization Admin (ACP-520) | Atlassian | ~$249 | Advanced |
 
 ### Total Cost Per Track (all certs)
 
@@ -328,7 +376,9 @@ A skill and certification based learning path for DevOps, SRE, Infrastructure an
 | 9. Observability & Monitoring | 8 | ~$1,100 |
 | 10. Security & DevSecOps | 5 | ~$1,643 |
 | 11. AI & Machine Learning | 8 | ~$1,325 |
-| **All Tracks** | **46** | **~$10,787.50** |
+| 12. API Development & Testing | 5 | ~$650 |
+| 13. Project Management & ITSM | 5 | ~$1,245 |
+| **All Tracks** | **56** | **~$12,682.50** |
 
 ---
 
@@ -372,6 +422,7 @@ A skill and certification based learning path for DevOps, SRE, Infrastructure an
 - [AWS Workshops](https://workshops.aws/) — Free guided AWS hands-on workshops
 - [Red Hat Developer](https://developers.redhat.com/) — Free RHEL developer subscription and learning resources
 - [Python.org Tutorial](https://docs.python.org/3/tutorial/) — Official Python tutorial, free forever
+- [Postman Academy](https://academy.postman.com/) — Free API fundamentals, testing, and automation courses with certificates
 
 #### 📺 YouTube Channels
 - [NetworkChuck](https://www.youtube.com/@NetworkChuck) — Networking, Linux, cloud, and cyber security
