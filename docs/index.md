@@ -7,7 +7,7 @@
 
 A skill and certification based learning path for DevOps, SRE, Infrastructure and Operations. Each track maps to industry certifications and the free or low cost resources to get you there.
 
-**56 Certifications** | **13 Skill Tracks** | **~$12,682.50 Total Cost** | **40+ Free Resources**
+**57 Certifications** | **13 Skill Tracks** | **~$12,781.50 Total Cost** | **40+ Free Resources**
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=flat&logo=redhat&logoColor=white)
@@ -16,6 +16,7 @@ A skill and certification based learning path for DevOps, SRE, Infrastructure an
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=flat&logo=nvidia&logoColor=white)
 ![CompTIA](https://img.shields.io/badge/CompTIA-C8202F?style=flat&logoColor=white)
@@ -47,11 +48,11 @@ A skill and certification based learning path for DevOps, SRE, Infrastructure an
 | 4 | [Scripting & Automation](tracks/scripting-automation.md) | 2 | ~$354 |
 | 5 | [Cloud Platforms](tracks/cloud-platforms.md) | 7 | ~$1,400 |
 | 6 | [Infrastructure as Code](tracks/infrastructure-as-code.md) | 2 | ~$365.50 |
-| 7 | [CI/CD Pipelines](tracks/cicd-pipelines.md) | 2 | ~$399 |
+| 7 | [CI/CD Pipelines](tracks/cicd-pipelines.md) | 3 | ~$498 |
 | 8 | [Containers & Kubernetes](tracks/containers-kubernetes.md) | 4 | ~$1,235 |
 | 9 | [Observability & Monitoring](tracks/observability-monitoring.md) | 8 | ~$1,100 |
 | 10 | [Security & DevSecOps](tracks/security-devsecops.md) | 5 | ~$1,643 |
 | 11 | [AI & Machine Learning](tracks/ai-ml.md) | 8 | ~$1,325 |
 | 12 | [API Development & Testing](tracks/api-development.md) | 5 | ~$650 |
 | 13 | [Project Management & ITSM](tracks/project-management.md) | 5 | ~$1,245 |
-| | **All Tracks** | **56** | **~$12,682.50** |
+| | **All Tracks** | **57** | **~$12,781.50** |

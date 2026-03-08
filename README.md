@@ -13,7 +13,7 @@
 
 A skill and certification based learning path for DevOps, SRE, Infrastructure and Operations. Each track maps to industry certifications and the free or low cost resources to get you there.
 
-**56 Certifications** | **13 Skill Tracks** | **~$12,682.50 Total Cost** | **40+ Free Resources**
+**57 Certifications** | **13 Skill Tracks** | **~$12,781.50 Total Cost** | **40+ Free Resources**
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=flat&logo=redhat&logoColor=white)
@@ -22,6 +22,7 @@ A skill and certification based learning path for DevOps, SRE, Infrastructure an
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=flat&logo=nvidia&logoColor=white)
 ![CompTIA](https://img.shields.io/badge/CompTIA-C8202F?style=flat&logoColor=white)
@@ -214,20 +215,21 @@ A skill and certification based learning path for DevOps, SRE, Infrastructure an
 ---
 
 ### 7. CI/CD Pipelines
-**2 certs | ~$399**
+**3 certs | ~$498**
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
 
 **Target Certifications:**
 - [ ] [GitHub Actions Certification](https://resources.github.com/learn/certifications/) — ~$99
+- [ ] [Certified Jenkins Engineer (CJE)](https://www.cloudbees.com/cloudbees-university/training-certifications/jenkins) — ~$99
 - [ ] [AWS Certified DevOps Engineer – Professional](https://aws.amazon.com/certification/certified-devops-engineer-professional/) — $300
 
-**What You'll Learn:** Build/test/deploy automation, pipeline design, workflow triggers, artifact management, secrets handling, deployment strategies, pipeline security
+**What You'll Learn:** Build/test/deploy automation, pipeline design, workflow triggers, artifact management, secrets handling, deployment strategies, pipeline security, Jenkins administration
 
 **Suggested Learning Path:**
 1. Study with [Microsoft Learn's GitHub Actions prep](https://learn.microsoft.com/) (free) and build workflows in a personal repo
 2. Watch [TechWorld with Nana's CI/CD tutorials](https://www.youtube.com/@TechWorldwithNana) for pipeline design concepts
-3. Take GitHub Actions cert first ($99), then AWS DevOps Professional after gaining production pipeline experience
+3. Take GitHub Actions cert first ($99), then CJE ($99) for Jenkins experience, then AWS DevOps Professional after gaining production pipeline experience
 
 **Study Guides:**
 - [*Learning GitHub Actions*](https://www.amazon.com/Learning-GitHub-Actions-Automation-Integration/dp/1098131061) — Brent Laster (O'Reilly, 1st Edition, 2023)
@@ -449,6 +451,7 @@ A skill and certification based learning path for DevOps, SRE, Infrastructure an
 | NVIDIA Agentic AI Professional | NVIDIA | $200 | Advanced |
 | GitHub Admin | GitHub | ~$99 | Intermediate |
 | GitHub Actions | GitHub | ~$99 | Intermediate |
+| CJE (Certified Jenkins Engineer) | CloudBees | ~$99 | Intermediate |
 | GitHub Advanced Security | GitHub | ~$99 | Intermediate |
 | Anthropic Academy (all courses) | Anthropic | Free | Beginner |
 | Postman API Fundamentals Student Expert | Postman | Free | Beginner |
@@ -472,14 +475,14 @@ A skill and certification based learning path for DevOps, SRE, Infrastructure an
 | 4. Scripting & Automation | 2 | ~$354 |
 | 5. Cloud Platforms (AWS) | 7 | ~$1,400 |
 | 6. Infrastructure as Code | 2 | ~$365.50 |
-| 7. CI/CD Pipelines | 2 | ~$399 |
+| 7. CI/CD Pipelines | 3 | ~$498 |
 | 8. Containers & Kubernetes | 4 | ~$1,235 |
 | 9. Observability & Monitoring | 8 | ~$1,100 |
 | 10. Security & DevSecOps | 5 | ~$1,643 |
 | 11. AI & Machine Learning | 8 | ~$1,325 |
 | 12. API Development & Testing | 5 | ~$650 |
 | 13. Project Management & ITSM | 5 | ~$1,245 |
-| **All Tracks** | **56** | **~$12,682.50** |
+| **All Tracks** | **57** | **~$12,781.50** |
 
 ---
 

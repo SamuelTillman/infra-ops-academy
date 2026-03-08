@@ -1,23 +1,24 @@
 # 7. CI/CD Pipelines
 
-**2 certs | ~$399**
+**3 certs | ~$498**
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
 
 ## Target Certifications
 
 - [ ] [GitHub Actions Certification](https://resources.github.com/learn/certifications/) — ~$99
+- [ ] [Certified Jenkins Engineer (CJE)](https://www.cloudbees.com/cloudbees-university/training-certifications/jenkins) — ~$99
 - [ ] [AWS Certified DevOps Engineer – Professional](https://aws.amazon.com/certification/certified-devops-engineer-professional/) — $300
 
 ## What You'll Learn
 
-Build/test/deploy automation, pipeline design, workflow triggers, artifact management, secrets handling, deployment strategies, pipeline security
+Build/test/deploy automation, pipeline design, workflow triggers, artifact management, secrets handling, deployment strategies, pipeline security, Jenkins administration
 
 ## Suggested Learning Path
 
 1. Study with [Microsoft Learn's GitHub Actions prep](https://learn.microsoft.com/) (free) and build workflows in a personal repo
 2. Watch [TechWorld with Nana's CI/CD tutorials](https://www.youtube.com/@TechWorldwithNana) for pipeline design concepts
-3. Take GitHub Actions cert first ($99), then AWS DevOps Professional after gaining production pipeline experience
+3. Take GitHub Actions cert first ($99), then CJE ($99) for Jenkins experience, then AWS DevOps Professional after gaining production pipeline experience
 
 ## Study Guides
 

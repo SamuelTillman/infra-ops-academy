@@ -44,6 +44,7 @@
 | NVIDIA Agentic AI Professional | NVIDIA | $200 | Advanced |
 | GitHub Admin | GitHub | ~$99 | Intermediate |
 | GitHub Actions | GitHub | ~$99 | Intermediate |
+| CJE (Certified Jenkins Engineer) | CloudBees | ~$99 | Intermediate |
 | GitHub Advanced Security | GitHub | ~$99 | Intermediate |
 | Anthropic Academy (all courses) | Anthropic | Free | Beginner |
 | Postman API Fundamentals Student Expert | Postman | Free | Beginner |
