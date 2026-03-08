@@ -50,6 +50,8 @@ A skill and certification based learning path for DevOps, SRE, Infrastructure an
 
 ## 🚀 Skill Tracks
 
+> Click any track below to expand it and see the certifications, costs, and what you'll learn.
+
 <details>
 <summary><strong>1. Tech Fundamentals</strong> — 3 certs | ~$1,499</summary>
 
