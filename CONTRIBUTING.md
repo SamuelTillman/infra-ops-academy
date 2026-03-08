@@ -1,4 +1,4 @@
-# Contributing to The Open Source Infrastructure & Operations Academy
+# Contributing to The Infrastructure & Operations Academy
 
 First off, thanks for taking the time to contribute! This project thrives on community input.
 

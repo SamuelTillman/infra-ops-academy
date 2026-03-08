@@ -1,0 +1,95 @@
+site_name: The Infrastructure & Operations Academy
+site_url: https://samueltillman.github.io/infra-ops-academy/
+site_description: A skill and certification based learning path for DevOps, SRE, Infrastructure and Operations.
+site_author: Samuel Tillman
+repo_url: https://github.com/SamuelTillman/infra-ops-academy
+repo_name: SamuelTillman/infra-ops-academy
+
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: deep purple
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: deep purple
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.footer
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.tooltips
+  icon:
+    repo: fontawesome/brands/github
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/SamuelTillman
+      name: Samuel Tillman on GitHub
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/samueltillman/
+      name: Samuel Tillman on LinkedIn
+  generator: false
+
+copyright: Copyright &copy; 2025 Samuel Tillman
+
+markdown_extensions:
+  - attr_list
+  - def_list
+  - tables
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - toc:
+      permalink: true
+
+plugins:
+  - search
+
+nav:
+  - Home: index.md
+  - Skill Tracks:
+    - 1. Tech Fundamentals: tracks/tech-fundamentals.md
+    - 2. Linux Administration: tracks/linux-administration.md
+    - 3. Git & SCM: tracks/git-scm.md
+    - 4. Scripting & Automation: tracks/scripting-automation.md
+    - 5. Cloud Platforms: tracks/cloud-platforms.md
+    - 6. Infrastructure as Code: tracks/infrastructure-as-code.md
+    - 7. CI/CD Pipelines: tracks/cicd-pipelines.md
+    - 8. Containers & Kubernetes: tracks/containers-kubernetes.md
+    - 9. Observability & Monitoring: tracks/observability-monitoring.md
+    - 10. Security & DevSecOps: tracks/security-devsecops.md
+    - 11. AI & Machine Learning: tracks/ai-ml.md
+    - 12. API Development & Testing: tracks/api-development.md
+    - 13. Project Management & ITSM: tracks/project-management.md
+  - Reference:
+    - Certification Reference: certifications.md
+    - Saving Money: saving-money.md
+    - Recommended Reading: reading.md
+  - Resources:
+    - Free Resources: resources.md
+    - Community: community.md
+  - Contributing: contributing.md

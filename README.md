@@ -1,6 +1,9 @@
 <div align="center">
 
-# The Open Source Infrastructure & Operations Academy
+<!-- TODO: Add a custom banner/logo here -->
+<!-- ![Banner](assets/banner.png) -->
+
+# The Infrastructure & Operations Academy
 
 [![GitHub stars](https://img.shields.io/github/stars/SamuelTillman/infra-ops-academy?style=social)](https://github.com/SamuelTillman/infra-ops-academy/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/SamuelTillman/infra-ops-academy?style=social)](https://github.com/SamuelTillman/infra-ops-academy/network/members)
@@ -48,6 +51,8 @@ A skill and certification based learning path for DevOps, SRE, Infrastructure an
 3. Pursue the **certification** when you're ready to validate your knowledge
 4. Use the **checkboxes** below to track your progress (fork the repo first!)
 
+> **Study Guide Philosophy:** I'm a book person. Where available, I've included [Sybex (Wiley)](https://www.wiley.com/en-us/Sybex+Study+Guide-c-4052) and [O'Reilly](https://www.oreilly.com/) study guide recommendations for each track. Sybex covers CompTIA, AWS, and (ISC)2 certs exceptionally well. O'Reilly is the go-to for Kubernetes, Linux, and cloud-native topics. If you're the type who likes to work through a proper study guide chapter by chapter, you'll find the right book for every cert that has one.
+
 ---
 
 ## 🚀 Skill Tracks
@@ -64,6 +69,16 @@ A skill and certification based learning path for DevOps, SRE, Infrastructure an
 
 **What You'll Learn:** Hardware, operating systems, troubleshooting, network architecture, protocols, IP addressing, security threats & vulnerabilities, incident response, governance & compliance
 
+**Suggested Learning Path:**
+1. Watch [Professor Messer's A+ course](https://www.professormesser.com/) (free) and practice with hardware/VMs
+2. Move to [Professor Messer's Network+ course](https://www.youtube.com/@professormesser) and lab with [Cisco Networking Academy](https://www.netacad.com/)
+3. Finish with [Professor Messer's Security+ course](https://www.youtube.com/@professormesser) and practice on [OverTheWire](https://overthewire.org/wargames/)
+
+**Study Guides:**
+- [*CompTIA A+ Complete Study Guide, 2-Volume Set: Core 1 (220-1201) & Core 2 (220-1202)*](https://www.amazon.com/CompTIA-Complete-Study-Guide-Set/dp/1394330030) — Quentin Docter, Jon Buhagiar (Sybex, 6th Edition, 2025)
+- [*CompTIA Network+ Study Guide: Exam N10-009*](https://www.amazon.com/CompTIA-Network-Study-Guide-N10-009/dp/1394235607) — Todd Lammle, Jon Buhagiar (Sybex, 6th Edition, 2024)
+- [*CompTIA Security+ Study Guide with 500+ Practice Test Questions: Exam SY0-701*](https://www.amazon.com/CompTIA-Security-Study-Practice-Questions/dp/1394211414) — Mike Chapple, David Seidl (Sybex, 9th Edition, 2023)
+
 ---
 
 ### 2. Linux Administration
@@ -78,6 +93,17 @@ A skill and certification based learning path for DevOps, SRE, Infrastructure an
 
 **What You'll Learn:** Linux system administration, command line, file systems, user management, services, shell scripting, automation with Ansible (RHCE)
 
+**Suggested Learning Path:**
+1. Start with [Linux Journey](https://linuxjourney.com/) for fundamentals, then practice on [sadservers.com](https://sadservers.com/)
+2. Take [freeCodeCamp's Linux course](https://www.youtube.com/@freecodecamp) and get a [Red Hat Developer](https://developers.redhat.com/) subscription for hands-on practice
+3. Watch [Learn Linux TV](https://www.youtube.com/@LearnLinuxTV) for sysadmin topics, then take Linux+ -> RHCSA -> RHCE
+
+**Study Guides:**
+- [*CompTIA Linux+ Study Guide: Exam XK0-006*](https://www.amazon.com/CompTIA-Linux-Study-Guide-XK0-006/dp/1394316321) — Richard Blum (Sybex, 6th Edition, 2025)
+- [*Red Hat RHCSA 9 Cert Guide: EX200*](https://www.amazon.com/Red-RHCSA-Cert-Guide-Certification/dp/0138096279) — Sander van Vugt (Pearson, 1st Edition, 2023)
+- [*Ansible: Up & Running*](https://www.amazon.com/Ansible-Running-Automating-Configuration-Management/dp/1098109155) — Bas Meijer, Lorin Hochstein, René Moser (O'Reilly, 3rd Edition, 2022)
+- [*Red Hat Certified Engineer (RHCE) Ansible Automation Study Guide*](https://www.amazon.com/Certified-Engineer-Ansible-Automation-Depth/dp/1098162137) — Alex Soto Bueno, Andrew Block (O'Reilly, 1st Edition, 2025)
+
 ---
 
 ### 3. Git & Source Control Management
@@ -91,6 +117,14 @@ A skill and certification based learning path for DevOps, SRE, Infrastructure an
 
 **What You'll Learn:** Version control with Git, branching strategies, pull requests, GitHub workflows, CI/CD with Actions, code security scanning, repository administration
 
+**Suggested Learning Path:**
+1. Complete [The Odin Project's Git foundations](https://www.theodinproject.com/) and practice by contributing to open source repos
+2. Study with [Microsoft Learn's GitHub Foundations prep](https://learn.microsoft.com/) (free) -> take GitHub Foundations
+3. Progress to GitHub Admin after gaining real-world repo management experience
+
+**Study Guides:**
+- [*Learning GitHub Actions*](https://www.amazon.com/Learning-GitHub-Actions-Automation-Integration/dp/1098131061) — Brent Laster (O'Reilly, 1st Edition, 2023)
+
 ---
 
 ### 4. Scripting & Automation
@@ -103,6 +137,16 @@ A skill and certification based learning path for DevOps, SRE, Infrastructure an
 - [ ] [PCAP (Python Certified Associate)](https://pythoninstitute.org/pcap) — ~$295
 
 **What You'll Learn:** Python fundamentals, data structures, scripting, automation, working with APIs, file handling, error handling, object-oriented programming
+
+**Suggested Learning Path:**
+1. Start with [Python.org's official tutorial](https://docs.python.org/3/tutorial/) or [Automate the Boring Stuff](https://automatetheboringstuff.com/) (free)
+2. Complete the free [PCEP prep course](https://pythoninstitute.org/pcep) and [PCAP prep course](https://pythoninstitute.org/pcap) from the Python Institute
+3. Take [freeCodeCamp's Python course](https://www.youtube.com/@freecodecamp) and build small automation scripts
+4. Take PCEP first (entry-level, $59), then work toward PCAP after building real projects
+
+**Study Guides:**
+- [*Learning Python*](https://www.amazon.com/Learning-Python-5th-Mark-Lutz/dp/1449355730) — Mark Lutz (O'Reilly, 5th Edition, 2013)
+- [*Fluent Python*](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1492056359) — Luciano Ramalho (O'Reilly, 2nd Edition, 2022)
 
 ---
 
@@ -132,6 +176,20 @@ A skill and certification based learning path for DevOps, SRE, Infrastructure an
 
 > 50% discount on your next exam after earning any AWS certification.
 
+**Suggested Learning Path:**
+1. Start with [AWS Skill Builder](https://skillbuilder.aws/) free courses and [AWS Workshops](https://workshops.aws/) for hands-on practice
+2. Watch [Adrian Cantrill](https://www.youtube.com/@adriancantrill) or [freeCodeCamp's AWS courses](https://www.youtube.com/@freecodecamp) for deep dives
+3. Take Cloud Practitioner first, then Solutions Architect Associate, then branch into your specialty
+
+**Study Guides:**
+- [*AWS Certified Cloud Practitioner Study Guide with 500 Practice Test Questions: Foundational (CLF-C02) Exam*](https://www.amazon.com/Certified-Cloud-Practitioner-Practice-Questions/dp/1394235631) — Ben Piper, David Clinton (Sybex, 2nd Edition, 2023)
+- [*AWS Certified Solutions Architect Study Guide with 900 Practice Test Questions: Associate (SAA-C03) Exam*](https://www.amazon.com/Certified-Solutions-Architect-Study-Guide/dp/1119982626) — Ben Piper, David Clinton (Sybex, 4th Edition, 2022)
+- [*AWS Certified SysOps Administrator Study Guide: Associate SOA-C02 Exam*](https://www.amazon.com/Certified-SysOps-Administrator-Study-Guide/dp/1119813107) — Jorge T. Negron, Christoffer Jones, George Sawyer (Sybex, 3rd Edition, 2024)
+- [*AWS Certified Developer Study Guide: Associate (DVA-C02) Exam*](https://www.amazon.com/AWS-Certified-Developer-Study-Guide/dp/1394274807) — Brandon Rich (Sybex, 2nd Edition, 2025)
+- [*AWS Certified Data Engineer Study Guide: Associate (DEA-C01) Exam*](https://www.amazon.com/Certified-Data-Engineer-Study-Guide/dp/1394286589) — Syed Humair et al. (Sybex, 1st Edition, 2025)
+- [*AWS Certified Advanced Networking Study Guide: Specialty (ANS-C01) Exam*](https://www.amazon.com/Certified-Advanced-Networking-Study-Guide/dp/1394171854) — Todd Montgomery (Sybex, 2nd Edition, 2023)
+- [*AWS Cookbook*](https://www.amazon.com/AWS-Cookbook-Recipes-Deploying-Managing/dp/1492092606) — John Culkin, Mike Zazon (O'Reilly, 1st Edition, 2022)
+
 ---
 
 ### 6. Infrastructure as Code
@@ -144,6 +202,14 @@ A skill and certification based learning path for DevOps, SRE, Infrastructure an
 - [ ] [HashiCorp Terraform Authoring and Operations Professional](https://developer.hashicorp.com/terraform/tutorials/pro-cert) — $295
 
 **What You'll Learn:** IaC concepts, Terraform CLI, providers, resources, state management, modules, advanced module design, workspaces, collaboration workflows, Sentinel policies, production patterns
+
+**Suggested Learning Path:**
+1. Complete [HashiCorp's free Terraform tutorials](https://developer.hashicorp.com/terraform/tutorials) from start to finish
+2. Watch [freeCodeCamp's Terraform course](https://www.youtube.com/@freecodecamp) and [TechWorld with Nana](https://www.youtube.com/@TechWorldwithNana) for practical examples
+3. Build a real infrastructure project, then take the Terraform Associate ($70.50 — one of the cheapest certs)
+
+**Study Guides:**
+- [*Terraform: Up & Running*](https://www.amazon.com/Terraform-Running-Writing-Infrastructure-Code/dp/1098116747) — Yevgeniy Brikman (O'Reilly, 3rd Edition, 2022)
 
 ---
 
@@ -158,6 +224,14 @@ A skill and certification based learning path for DevOps, SRE, Infrastructure an
 
 **What You'll Learn:** Build/test/deploy automation, pipeline design, workflow triggers, artifact management, secrets handling, deployment strategies, pipeline security
 
+**Suggested Learning Path:**
+1. Study with [Microsoft Learn's GitHub Actions prep](https://learn.microsoft.com/) (free) and build workflows in a personal repo
+2. Watch [TechWorld with Nana's CI/CD tutorials](https://www.youtube.com/@TechWorldwithNana) for pipeline design concepts
+3. Take GitHub Actions cert first ($99), then AWS DevOps Professional after gaining production pipeline experience
+
+**Study Guides:**
+- [*Learning GitHub Actions*](https://www.amazon.com/Learning-GitHub-Actions-Automation-Integration/dp/1098131061) — Brent Laster (O'Reilly, 1st Edition, 2023)
+
 ---
 
 ### 8. Containers & Kubernetes
@@ -168,10 +242,22 @@ A skill and certification based learning path for DevOps, SRE, Infrastructure an
 **Target Certifications:**
 - [ ] [Docker Certified Associate (DCA)](https://training.mirantis.com/certification/dca-certification-exam/) — ~$195
 - [ ] [Kubernetes and Cloud Native Associate (KCNA)](https://training.linuxfoundation.org/certification/kubernetes-cloud-native-associate/) — $250
-- [ ] [Certified Kubernetes Administrator (CKA)](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/) — ~$395
 - [ ] [Certified Kubernetes Application Developer (CKAD)](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/) — ~$395
+- [ ] [Certified Kubernetes Administrator (CKA)](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/) — ~$395
 
 **What You'll Learn:** Container fundamentals, Dockerfiles, image management, Kubernetes architecture, pods, deployments, services, networking, storage, RBAC, cluster administration
+
+**Suggested Learning Path:**
+1. Start with [Play with Docker](https://labs.play-with-docker.com/) and [freeCodeCamp's Docker course](https://www.youtube.com/@freecodecamp), then try [Play with Kubernetes](https://labs.play-with-k8s.com/)
+2. Watch [KodeKloud](https://www.youtube.com/@KodeKloud) and [TechWorld with Nana](https://www.youtube.com/@TechWorldwithNana) for K8s deep dives
+3. Take KCNA -> DCA -> CKAD -> CKA in order; use [Killer.sh](https://killer.sh/) practice exams (included with CKAD/CKA purchase)
+
+**Study Guides:**
+- [*Docker: Up & Running*](https://www.amazon.com/Docker-Running-Shipping-Reliable-Containers/dp/1098131827) — Sean Kane, Karl Matthias (O'Reilly, 3rd Edition, 2023)
+- [*Kubernetes Up & Running*](https://www.amazon.com/Kubernetes-Running-Dive-Future-Infrastructure/dp/1098110205) — Brendan Burns, Joe Beda, Kelsey Hightower, Lachlan Evenson (O'Reilly, 3rd Edition, 2022)
+- [*Certified Kubernetes Application Developer (CKAD) Study Guide*](https://www.amazon.com/Certified-Kubernetes-Application-Developer-Depth/dp/1492083739) — Benjamin Muschko (O'Reilly, 2nd Edition, 2024)
+- [*Certified Kubernetes Administrator (CKA) Study Guide*](https://www.amazon.com/Certified-Kubernetes-Administrator-Study-Depth/dp/B0FPQ7GFZ1) — Benjamin Muschko (O'Reilly, 2nd Edition, 2026)
+- [*Kubernetes and Cloud Native Associate (KCNA) Study Guide*](https://www.amazon.com/Kubernetes-Cloud-Native-Associate-Guide/dp/1098138945) — Adrian Gonzalez Sanchez, Jorge Valenzuela Jimenez (O'Reilly, 1st Edition, 2024)
 
 ---
 
@@ -192,6 +278,15 @@ A skill and certification based learning path for DevOps, SRE, Infrastructure an
 
 **What You'll Learn:** Metrics, logs, and traces (the three pillars), PromQL, alerting, dashboards, distributed tracing, APM, SLIs/SLOs, incident response workflows
 
+**Suggested Learning Path:**
+1. Start with the free [New Relic Foundation cert](https://learn.newrelic.com/) and [Datadog Learning Center](https://learn.datadoghq.com/) courses
+2. Read [Google's SRE books](https://sre.google/books/) (free online) for observability concepts and SLI/SLO design
+3. Take PCA after learning PromQL with [Prometheus docs](https://prometheus.io/docs/prometheus/latest/querying/basics/), then progress to paid Datadog/New Relic certs
+
+**Study Guides:**
+- [*Prometheus: Up & Running*](https://www.amazon.com/Prometheus-Infrastructure-Application-Performance-Monitoring/dp/1098131142) — Julien Pivotto, Brian Brazil (O'Reilly, 2nd Edition, 2023)
+- [*Observability Engineering*](https://www.amazon.com/Observability-Engineering-Achieving-Production-Excellence/dp/1492076449) — Charity Majors, Liz Fong-Jones, George Miranda (O'Reilly, 1st Edition, 2022)
+
 ---
 
 ### 10. Security & DevSecOps
@@ -207,6 +302,17 @@ A skill and certification based learning path for DevOps, SRE, Infrastructure an
 - [ ] [CCSP (Certified Cloud Security Professional)](https://www.isc2.org/certifications/ccsp) — $599
 
 **What You'll Learn:** Cloud architecture, data security, platform & infrastructure security, application security, operations, legal & compliance
+
+**Suggested Learning Path:**
+1. Complete Security+ first (Track 1), then study with [Microsoft Learn's GitHub Advanced Security prep](https://learn.microsoft.com/) (free)
+2. Practice on [OverTheWire](https://overthewire.org/wargames/) and [Killercoda security scenarios](https://killercoda.com/)
+3. Take GitHub Advanced Security -> KCSA -> AWS Security Specialty -> CKS -> CCSP (building on each)
+
+**Study Guides:**
+- [*AWS Certified Security Study Guide: Specialty (SCS-C02) Exam*](https://www.amazon.com/AWS-Certified-Security-Study-Guide/dp/139425346X) — Mauricio Munoz et al. (Sybex, 2nd Edition, 2025)
+- [*(ISC)2 CCSP Certified Cloud Security Professional Official Study Guide*](https://www.amazon.com/Certified-Cloud-Security-Professional-Official/dp/1119909376) — Mike Chapple, David Seidl (Sybex, 3rd Edition, 2022)
+- [*Certified Kubernetes Security Specialist (CKS) Study Guide*](https://www.amazon.com/Certified-Kubernetes-Security-Specialist-Depth/dp/1098132971) — Benjamin Muschko (O'Reilly, 1st Edition, 2023)
+- [*Hacking Kubernetes*](https://www.amazon.com/Hacking-Kubernetes-Threat-Driven-Analysis-Defense/dp/1492081736) — Andrew Martin, Michael Hausenblas (O'Reilly, 1st Edition, 2021)
 
 ---
 
@@ -238,6 +344,18 @@ A skill and certification based learning path for DevOps, SRE, Infrastructure an
 
 **What You'll Learn:** AI/ML fundamentals, model training & deployment, data pipelines, feature engineering, MLOps, responsible AI, cloud-based ML services, generative AI, LLMs, agentic AI, prompt engineering
 
+**Suggested Learning Path:**
+1. Complete all [Anthropic Academy](https://anthropic.skilljar.com/) courses (free) and [NVIDIA DLI](https://www.nvidia.com/en-us/training/) self-paced courses (free)
+2. Take [freeCodeCamp's ML course](https://www.youtube.com/@freecodecamp) and study with [AWS Skill Builder](https://skillbuilder.aws/) AI/ML paths
+3. Take AWS AI Practitioner first, then ML Engineer Associate, then branch into NVIDIA or GenAI certs
+
+**Study Guides:**
+- [*AWS Certified AI Practitioner Study Guide: Foundational (AIF-C01) Exam*](https://www.amazon.com/AWS-Certified-Practitioner-Study-Guide/dp/1394328192) — Vikram Elango, Vivek Gangasani, Shreyas Subramanian (Sybex, 1st Edition, 2025)
+- [*AWS Certified Machine Learning Engineer Study Guide: Associate (MLA-C01) Exam*](https://www.amazon.com/Certified-Machine-Learning-Engineer-Study/dp/1394319959) — Dario Cabianca (Sybex, 1st Edition, 2025)
+- [*Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow*](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1098125975) — Aurélien Géron (O'Reilly, 3rd Edition, 2022)
+- [*Designing Machine Learning Systems*](https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969) — Chip Huyen (O'Reilly, 1st Edition, 2022)
+- [*AI Engineering*](https://www.amazon.com/AI-Engineering-Building-Applications-Foundation/dp/1098166302) — Chip Huyen (O'Reilly, 1st Edition, 2025)
+
 ---
 
 ### 12. API Development & Testing
@@ -254,6 +372,14 @@ A skill and certification based learning path for DevOps, SRE, Infrastructure an
 
 **What You'll Learn:** API fundamentals, REST & HTTP methods, API testing & automation, Postman collections & environments, CI/CD integration via CLI, API lifecycle management, integration patterns, MuleSoft Anypoint Platform, API-led connectivity
 
+**Suggested Learning Path:**
+1. Complete all three free [Postman Academy](https://academy.postman.com/) paths — you'll earn three certificates at no cost
+2. Build API collections and automated tests in Postman for a real project
+3. Progress to MuleSoft certs after gaining integration experience
+
+**Study Guides:**
+- [*Designing Web APIs*](https://www.amazon.com/Designing-Web-APIs-Building-Developers/dp/1492026921) — Brenda Jin, Saurabh Sahni, Amir Shevat (O'Reilly, 1st Edition, 2018)
+
 ---
 
 ### 13. Project Management & ITSM
@@ -269,6 +395,11 @@ A skill and certification based learning path for DevOps, SRE, Infrastructure an
 - [ ] [Atlassian Certified in Managing Jira Projects for Cloud (ACP-620)](https://community.atlassian.com/learning/certifications) — ~$249
 
 **What You'll Learn:** Jira project configuration, workflows, boards (Scrum/Kanban), Confluence administration, IT service management, incident & change management, SLAs, cloud organization administration, user provisioning, security policies
+
+**Suggested Learning Path:**
+1. Get hands-on with [Atlassian's free cloud tier](https://www.atlassian.com/software/free) — set up Jira and Confluence for a personal project
+2. Complete [Atlassian University](https://university.atlassian.com/) free training courses for each product
+3. Start with ACP-620 (Managing Jira Projects) as the easiest entry point, then progress by ACP number
 
 ---
 
@@ -295,8 +426,8 @@ A skill and certification based learning path for DevOps, SRE, Infrastructure an
 | Docker Certified Associate | Mirantis | ~$195 | Intermediate |
 | KCNA | Linux Foundation | $250 | Beginner |
 | KCSA | Linux Foundation | $250 | Beginner |
-| CKA | Linux Foundation | ~$395 | Intermediate |
 | CKAD | Linux Foundation | ~$395 | Intermediate |
+| CKA | Linux Foundation | ~$395 | Intermediate |
 | Prometheus Certified Associate | Linux Foundation | ~$250 | Intermediate |
 | Datadog Fundamentals | Datadog | $100 | Intermediate |
 | Datadog Log Management Fundamentals | Datadog | $100 | Intermediate |
@@ -433,9 +564,9 @@ A skill and certification based learning path for DevOps, SRE, Infrastructure an
 - [*Beyond the Phoenix Project*](https://www.amazon.com/Beyond-Phoenix-Project-Evolution-Audiobook/dp/B07B76MQNY) — Gene Kim, John Willis
 
 #### Site Reliability Engineering
-- [*Site Reliability Engineering*](https://sre.google/sre-book/table-of-contents/) — Google (free online)
-- [*The Site Reliability Workbook*](https://sre.google/workbook/table-of-contents/) — Google (free online)
-- [*Building Secure & Reliable Systems*](https://sre.google/static/pdf/building_secure_and_reliable_systems.pdf) — Google (free online)
+- [*Site Reliability Engineering*](https://sre.google/sre-book/table-of-contents/) — Google ([free online](https://sre.google/sre-book/table-of-contents/) | [Amazon](https://www.amazon.com/Site-Reliability-Engineering-Production-Systems/dp/149192912X))
+- [*The Site Reliability Workbook*](https://sre.google/workbook/table-of-contents/) — Google ([free online](https://sre.google/workbook/table-of-contents/) | [Amazon](https://www.amazon.com/Site-Reliability-Workbook-Practical-Implement/dp/1492029505))
+- [*Building Secure & Reliable Systems*](https://sre.google/static/pdf/building_secure_and_reliable_systems.pdf) — Google ([free online](https://sre.google/static/pdf/building_secure_and_reliable_systems.pdf) | [Amazon](https://www.amazon.com/Building-Secure-Reliable-Systems-Implementing/dp/1492083127))
 - [*Seeking SRE*](https://www.amazon.com/Seeking-SRE-Conversations-Running-Production/dp/1491978864) — David N. Blank-Edelman
 
 #### Systems & Networking
