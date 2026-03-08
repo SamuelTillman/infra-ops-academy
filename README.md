@@ -1,3 +1,5 @@
+<div align="center">
+
 # The Open Source Infrastructure & Operations Academy
 
 [![GitHub stars](https://img.shields.io/github/stars/SamuelTillman/infra-ops-academy?style=social)](https://github.com/SamuelTillman/infra-ops-academy/stargazers)
@@ -8,184 +10,259 @@
 
 A skill and certification based learning path for DevOps, SRE, Infrastructure and Operations. Each track maps to industry certifications and the free or low cost resources to get you there.
 
+**46 Certifications** | **11 Skill Tracks** | **~$10,787.50 Total Cost** | **40+ Free Resources**
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=flat&logo=redhat&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=flat&logo=nvidia&logoColor=white)
+![CompTIA](https://img.shields.io/badge/CompTIA-C8202F?style=flat&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+
+</div>
+
 > **Note:** This academy currently focuses on AWS, Red Hat, and Python ecosystems. More platforms and tracks will be added based on community interest — open an issue or PR if there's something you'd like to see!
 
 ---
 
-## Table of Contents
+## 📑 Table of Contents
 
-[How to Use This Repo](#how-to-use-this-repo) | [Skill Tracks](#skill-tracks) | [Certification Quick Reference](#certification-quick-reference) | [Saving Money](#saving-money-on-certifications) | [Free or Low Cost Resources](#free-or-low-cost-resources) | [Recommended Reading](#recommended-reading) | [Community](#community) | [Contributing](#contributing) | [License](#license)
+[How to Use This Repo](#-how-to-use-this-repo) | [Skill Tracks](#-skill-tracks) | [Certification Quick Reference](#-certification-quick-reference) | [Saving Money](#-saving-money-on-certifications) | [Free or Low Cost Resources](#-free-or-low-cost-resources) | [Recommended Reading](#-recommended-reading) | [Community](#-community) | [Contributing](#-contributing) | [License](#-license)
 
 **Skill Tracks:** [1. Tech Fundamentals](#1-tech-fundamentals) | [2. Linux Administration](#2-linux-administration) | [3. Git & SCM](#3-git--source-control-management) | [4. Scripting & Automation](#4-scripting--automation) | [5. Cloud Platforms](#5-cloud-platforms) | [6. Infrastructure as Code](#6-infrastructure-as-code) | [7. CI/CD Pipelines](#7-cicd-pipelines) | [8. Containers & Kubernetes](#8-containers--kubernetes) | [9. Observability & Monitoring](#9-observability--monitoring) | [10. Security & DevSecOps](#10-security--devsecops) | [11. AI & Machine Learning](#11-ai--machine-learning)
 
 ---
 
-## How to Use This Repo
+## 🎓 How to Use This Repo
 
 1. Pick a **skill track** based on where you are in your career
 2. Work through the **learning resources** in order
 3. Pursue the **certification** when you're ready to validate your knowledge
+4. Use the **checkboxes** below to track your progress (fork the repo first!)
 
 ---
 
-## Skill Tracks
+## 🚀 Skill Tracks
 
-### 1. Tech Fundamentals
+<details>
+<summary><strong>1. Tech Fundamentals</strong> — 3 certs | ~$1,499</summary>
+
+<br>
+
+![CompTIA](https://img.shields.io/badge/CompTIA-C8202F?style=flat&logoColor=white)
 
 **Target Certifications:**
-- [CompTIA A+ (Core 1 & Core 2)](https://www.comptia.org/certifications/a) — ~$369 per exam ($738 total)
-- [CompTIA Network+ (N10-009)](https://www.comptia.org/certifications/network) — ~$369
-- [CompTIA Security+ (SY0-701)](https://www.comptia.org/certifications/security) — ~$392
+- [ ] [CompTIA A+ (Core 1 & Core 2)](https://www.comptia.org/certifications/a) — ~$369 per exam ($738 total)
+- [ ] [CompTIA Network+ (N10-009)](https://www.comptia.org/certifications/network) — ~$369
+- [ ] [CompTIA Security+ (SY0-701)](https://www.comptia.org/certifications/security) — ~$392
 
 **What You'll Learn:** Hardware, operating systems, troubleshooting, network architecture, protocols, IP addressing, security threats & vulnerabilities, incident response, governance & compliance
 
----
+</details>
 
-### 2. Linux Administration
+<details>
+<summary><strong>2. Linux Administration</strong> — 3 certs | ~$1,269</summary>
+
+<br>
+
+![CompTIA](https://img.shields.io/badge/CompTIA-C8202F?style=flat&logoColor=white) ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=flat&logo=redhat&logoColor=white)
 
 **Target Certifications:**
-- [CompTIA Linux+ (XK0-005)](https://www.comptia.org/certifications/linux) — ~$369
-- [RHCSA (Red Hat Certified System Administrator)](https://www.redhat.com/en/services/certification/rhcsa) — ~$450
-- [RHCE (Red Hat Certified Engineer)](https://www.redhat.com/en/services/certification/rhce) — ~$450
+- [ ] [CompTIA Linux+ (XK0-005)](https://www.comptia.org/certifications/linux) — ~$369
+- [ ] [RHCSA (Red Hat Certified System Administrator)](https://www.redhat.com/en/services/certification/rhcsa) — ~$450
+- [ ] [RHCE (Red Hat Certified Engineer)](https://www.redhat.com/en/services/certification/rhce) — ~$450
 
 **What You'll Learn:** Linux system administration, command line, file systems, user management, services, shell scripting, automation with Ansible (RHCE)
 
----
+</details>
 
-### 3. Git & Source Control Management
+<details>
+<summary><strong>3. Git & Source Control Management</strong> — 2 certs | ~$198</summary>
+
+<br>
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 **Target Certifications:**
-- [GitHub Foundations](https://resources.github.com/learn/certifications/) — ~$99 (entry-level)
-- [GitHub Admin](https://resources.github.com/learn/certifications/) — ~$99
+- [ ] [GitHub Foundations](https://resources.github.com/learn/certifications/) — ~$99 (entry-level)
+- [ ] [GitHub Admin](https://resources.github.com/learn/certifications/) — ~$99
 
 **What You'll Learn:** Version control with Git, branching strategies, pull requests, GitHub workflows, CI/CD with Actions, code security scanning, repository administration
 
----
+</details>
 
-### 4. Scripting & Automation
+<details>
+<summary><strong>4. Scripting & Automation</strong> — 2 certs | ~$354</summary>
+
+<br>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 **Target Certifications:**
-- [PCEP (Python Certified Entry-Level Programmer)](https://pythoninstitute.org/pcep) — ~$59
-- [PCAP (Python Certified Associate)](https://pythoninstitute.org/pcap) — ~$295
+- [ ] [PCEP (Python Certified Entry-Level Programmer)](https://pythoninstitute.org/pcep) — ~$59
+- [ ] [PCAP (Python Certified Associate)](https://pythoninstitute.org/pcap) — ~$295
 
 **What You'll Learn:** Python fundamentals, data structures, scripting, automation, working with APIs, file handling, error handling, object-oriented programming
 
----
+</details>
 
-### 5. Cloud Platforms
+<details>
+<summary><strong>5. Cloud Platforms</strong> — 7 certs | ~$1,400</summary>
+
+<br>
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
 
 **What You'll Learn:** Cloud computing concepts, core services (compute, storage, networking, databases), identity & access management, cost optimization, architecture best practices
 
 #### AWS Track
 
 **Foundational:**
-- [AWS Certified Cloud Practitioner (CLF-C02)](https://aws.amazon.com/certification/certified-cloud-practitioner/) — $100
+- [ ] [AWS Certified Cloud Practitioner (CLF-C02)](https://aws.amazon.com/certification/certified-cloud-practitioner/) — $100
 
 **Associate:**
-- [AWS Certified Solutions Architect – Associate (SAA-C03)](https://aws.amazon.com/certification/certified-solutions-architect-associate/) — $150
-- [AWS Certified Developer – Associate](https://aws.amazon.com/certification/certified-developer-associate/) — $150
-- [AWS Certified CloudOps Engineer – Associate](https://aws.amazon.com/certification/certified-cloudops-engineer-associate/) — $150
-- [AWS Certified Data Engineer – Associate](https://aws.amazon.com/certification/certified-data-engineer-associate/) — $150
+- [ ] [AWS Certified Solutions Architect – Associate (SAA-C03)](https://aws.amazon.com/certification/certified-solutions-architect-associate/) — $150
+- [ ] [AWS Certified Developer – Associate](https://aws.amazon.com/certification/certified-developer-associate/) — $150
+- [ ] [AWS Certified CloudOps Engineer – Associate](https://aws.amazon.com/certification/certified-cloudops-engineer-associate/) — $150
+- [ ] [AWS Certified Data Engineer – Associate](https://aws.amazon.com/certification/certified-data-engineer-associate/) — $150
 
 **Professional:**
-- [AWS Certified Solutions Architect – Professional](https://aws.amazon.com/certification/certified-solutions-architect-professional/) — $300
+- [ ] [AWS Certified Solutions Architect – Professional](https://aws.amazon.com/certification/certified-solutions-architect-professional/) — $300
 
 **Specialty:**
-- [AWS Certified Advanced Networking – Specialty](https://aws.amazon.com/certification/certified-advanced-networking-specialty/) — $300
+- [ ] [AWS Certified Advanced Networking – Specialty](https://aws.amazon.com/certification/certified-advanced-networking-specialty/) — $300
 
 > 50% discount on your next exam after earning any AWS certification.
 
----
+</details>
 
-### 6. Infrastructure as Code
+<details>
+<summary><strong>6. Infrastructure as Code</strong> — 2 certs | ~$365.50</summary>
+
+<br>
+
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 
 **Target Certifications:**
-- [HashiCorp Terraform Associate (004)](https://developer.hashicorp.com/certifications/infrastructure-automation) — $70.50
-- [HashiCorp Terraform Authoring and Operations Professional](https://developer.hashicorp.com/terraform/tutorials/pro-cert) — $295
+- [ ] [HashiCorp Terraform Associate (004)](https://developer.hashicorp.com/certifications/infrastructure-automation) — $70.50
+- [ ] [HashiCorp Terraform Authoring and Operations Professional](https://developer.hashicorp.com/terraform/tutorials/pro-cert) — $295
 
 **What You'll Learn:** IaC concepts, Terraform CLI, providers, resources, state management, modules, advanced module design, workspaces, collaboration workflows, Sentinel policies, production patterns
 
----
+</details>
 
-### 7. CI/CD Pipelines
+<details>
+<summary><strong>7. CI/CD Pipelines</strong> — 2 certs | ~$399</summary>
+
+<br>
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
 
 **Target Certifications:**
-- [GitHub Actions Certification](https://resources.github.com/learn/certifications/) — ~$99
-- [AWS Certified DevOps Engineer – Professional](https://aws.amazon.com/certification/certified-devops-engineer-professional/) — $300
+- [ ] [GitHub Actions Certification](https://resources.github.com/learn/certifications/) — ~$99
+- [ ] [AWS Certified DevOps Engineer – Professional](https://aws.amazon.com/certification/certified-devops-engineer-professional/) — $300
 
 **What You'll Learn:** Build/test/deploy automation, pipeline design, workflow triggers, artifact management, secrets handling, deployment strategies, pipeline security
 
----
+</details>
 
-### 8. Containers & Kubernetes
+<details>
+<summary><strong>8. Containers & Kubernetes</strong> — 4 certs | ~$1,235</summary>
+
+<br>
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
 **Target Certifications:**
-- [Docker Certified Associate (DCA)](https://training.mirantis.com/certification/dca-certification-exam/) — ~$195
-- [Kubernetes and Cloud Native Associate (KCNA)](https://training.linuxfoundation.org/certification/kubernetes-cloud-native-associate/) — $250
-- [Certified Kubernetes Administrator (CKA)](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/) — ~$395
-- [Certified Kubernetes Application Developer (CKAD)](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/) — ~$395
+- [ ] [Docker Certified Associate (DCA)](https://training.mirantis.com/certification/dca-certification-exam/) — ~$195
+- [ ] [Kubernetes and Cloud Native Associate (KCNA)](https://training.linuxfoundation.org/certification/kubernetes-cloud-native-associate/) — $250
+- [ ] [Certified Kubernetes Administrator (CKA)](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/) — ~$395
+- [ ] [Certified Kubernetes Application Developer (CKAD)](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/) — ~$395
 
 **What You'll Learn:** Container fundamentals, Dockerfiles, image management, Kubernetes architecture, pods, deployments, services, networking, storage, RBAC, cluster administration
 
----
+</details>
 
-### 9. Observability & Monitoring
+<details>
+<summary><strong>9. Observability & Monitoring</strong> — 8 certs | ~$1,100</summary>
+
+<br>
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white) ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white) ![New Relic](https://img.shields.io/badge/New%20Relic-008C99?style=flat&logo=newrelic&logoColor=white)
 
 **Target Certifications:**
-- [Prometheus Certified Associate (PCA)](https://training.linuxfoundation.org/certification/prometheus-certified-associate/) — ~$250
-- [Datadog Fundamentals](https://learn.datadoghq.com/pages/certification) — $100
-- [Datadog Log Management Fundamentals](https://learn.datadoghq.com/pages/certification) — $100
-- [Datadog APM & Distributed Tracing Fundamentals](https://learn.datadoghq.com/pages/certification) — $100
-- [New Relic Verified Foundation (NVF)](https://learn.newrelic.com/page/new-relic-verified-foundation-nvf) — Free
-- [New Relic Certified APM Practitioner – Associate (APA)](https://learn.newrelic.com/page/new-relic-certified-apm-practitioner-associate-apa) — Free w/ Foundation completion
-- [New Relic Certified Performance Engineer – Professional (PEP)](https://learn.newrelic.com/page/new-relic-certified-performance-engineer-professional-pep) — $175
-- [New Relic Certified Reliability Engineer – Professional (REP)](https://learn.newrelic.com/page/new-relic-certified-reliability-engineer-professional-rep) — $175
+- [ ] [Prometheus Certified Associate (PCA)](https://training.linuxfoundation.org/certification/prometheus-certified-associate/) — ~$250
+- [ ] [Datadog Fundamentals](https://learn.datadoghq.com/pages/certification) — $100
+- [ ] [Datadog Log Management Fundamentals](https://learn.datadoghq.com/pages/certification) — $100
+- [ ] [Datadog APM & Distributed Tracing Fundamentals](https://learn.datadoghq.com/pages/certification) — $100
+- [ ] [New Relic Verified Foundation (NVF)](https://learn.newrelic.com/page/new-relic-verified-foundation-nvf) — Free
+- [ ] [New Relic Certified APM Practitioner – Associate (APA)](https://learn.newrelic.com/page/new-relic-certified-apm-practitioner-associate-apa) — Free w/ Foundation completion
+- [ ] [New Relic Certified Performance Engineer – Professional (PEP)](https://learn.newrelic.com/page/new-relic-certified-performance-engineer-professional-pep) — $175
+- [ ] [New Relic Certified Reliability Engineer – Professional (REP)](https://learn.newrelic.com/page/new-relic-certified-reliability-engineer-professional-rep) — $175
 
 **What You'll Learn:** Metrics, logs, and traces (the three pillars), PromQL, alerting, dashboards, distributed tracing, APM, SLIs/SLOs, incident response workflows
 
----
+</details>
 
-### 10. Security & DevSecOps
+<details>
+<summary><strong>10. Security & DevSecOps</strong> — 5 certs | ~$1,643</summary>
+
+<br>
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
 **Target Certifications:**
-- [GitHub Advanced Security](https://resources.github.com/learn/certifications/) — ~$99
-- [AWS Certified Security – Specialty](https://aws.amazon.com/certification/certified-security-specialty/) — $300
-- [Kubernetes and Cloud Native Security Associate (KCSA)](https://training.linuxfoundation.org/certification/kubernetes-and-cloud-native-security-associate-kcsa/) — $250
-- [Certified Kubernetes Security Specialist (CKS)](https://training.linuxfoundation.org/certification/certified-kubernetes-security-specialist/) — ~$395
-- [CCSP (Certified Cloud Security Professional)](https://www.isc2.org/certifications/ccsp) — $599
+- [ ] [GitHub Advanced Security](https://resources.github.com/learn/certifications/) — ~$99
+- [ ] [AWS Certified Security – Specialty](https://aws.amazon.com/certification/certified-security-specialty/) — $300
+- [ ] [Kubernetes and Cloud Native Security Associate (KCSA)](https://training.linuxfoundation.org/certification/kubernetes-and-cloud-native-security-associate-kcsa/) — $250
+- [ ] [Certified Kubernetes Security Specialist (CKS)](https://training.linuxfoundation.org/certification/certified-kubernetes-security-specialist/) — ~$395
+- [ ] [CCSP (Certified Cloud Security Professional)](https://www.isc2.org/certifications/ccsp) — $599
 
 **What You'll Learn:** Cloud architecture, data security, platform & infrastructure security, application security, operations, legal & compliance
 
----
+</details>
 
-### 11. AI & Machine Learning
+<details>
+<summary><strong>11. AI & Machine Learning</strong> — 8 certs | ~$1,325</summary>
+
+<br>
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white) ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=flat&logo=nvidia&logoColor=white)
 
 **Target Certifications:**
-- [AWS Certified AI Practitioner](https://aws.amazon.com/certification/certified-ai-practitioner/) — $100
-- [AWS Certified Machine Learning Engineer – Associate](https://aws.amazon.com/certification/certified-machine-learning-engineer-associate/) — $150
-- [AWS Certified Generative AI Developer – Professional](https://aws.amazon.com/certification/certified-generative-ai-developer-professional/) — $300
-- [NVIDIA AI Infrastructure and Operations Associate (NCA-AIIO)](https://www.nvidia.com/en-us/learn/certification/) — $125
-- [NVIDIA Generative AI with LLMs Associate (NCA-GENL)](https://www.nvidia.com/en-us/learn/certification/) — $125
-- [NVIDIA Generative AI with LLMs Professional (NCP-GENL)](https://www.nvidia.com/en-us/learn/certification/) — $200
-- [NVIDIA Agentic AI Professional (NCP-AAI)](https://www.nvidia.com/en-us/learn/certification/) — $200
+- [ ] [AWS Certified AI Practitioner](https://aws.amazon.com/certification/certified-ai-practitioner/) — $100
+- [ ] [AWS Certified Machine Learning Engineer – Associate](https://aws.amazon.com/certification/certified-machine-learning-engineer-associate/) — $150
+- [ ] [AWS Certified Generative AI Developer – Professional](https://aws.amazon.com/certification/certified-generative-ai-developer-professional/) — $300
+- [ ] [NVIDIA AI Infrastructure and Operations Associate (NCA-AIIO)](https://www.nvidia.com/en-us/learn/certification/) — $125
+- [ ] [NVIDIA Generative AI with LLMs Associate (NCA-GENL)](https://www.nvidia.com/en-us/learn/certification/) — $125
+- [ ] [NVIDIA Generative AI with LLMs Professional (NCP-GENL)](https://www.nvidia.com/en-us/learn/certification/) — $200
+- [ ] [NVIDIA Agentic AI Professional (NCP-AAI)](https://www.nvidia.com/en-us/learn/certification/) — $200
 
 #### Anthropic (Because I'm a FanBoy)
 
 - [Anthropic Academy](https://anthropic.skilljar.com/) — Free (completion certificates included)
-  - [Claude Code in Action](https://anthropic.skilljar.com/claude-code-in-action)
-  - [Claude 101](https://anthropic.skilljar.com/claude-101)
-  - [AI Fluency: Framework & Foundations](https://anthropic.skilljar.com/ai-fluency-framework-foundations)
-  - [Building with the Claude API](https://anthropic.skilljar.com/claude-with-the-anthropic-api)
-  - [Introduction to Model Context Protocol](https://anthropic.skilljar.com/introduction-to-model-context-protocol)
-  - [Model Context Protocol: Advanced Topics](https://anthropic.skilljar.com/model-context-protocol-advanced-topics)
-  - [Introduction to Agent Skills](https://anthropic.skilljar.com/introduction-to-agent-skills)
-  - [Claude with Amazon Bedrock](https://anthropic.skilljar.com/claude-in-amazon-bedrock)
+  - [ ] [Claude Code in Action](https://anthropic.skilljar.com/claude-code-in-action)
+  - [ ] [Claude 101](https://anthropic.skilljar.com/claude-101)
+  - [ ] [AI Fluency: Framework & Foundations](https://anthropic.skilljar.com/ai-fluency-framework-foundations)
+  - [ ] [Building with the Claude API](https://anthropic.skilljar.com/claude-with-the-anthropic-api)
+  - [ ] [Introduction to Model Context Protocol](https://anthropic.skilljar.com/introduction-to-model-context-protocol)
+  - [ ] [Model Context Protocol: Advanced Topics](https://anthropic.skilljar.com/model-context-protocol-advanced-topics)
+  - [ ] [Introduction to Agent Skills](https://anthropic.skilljar.com/introduction-to-agent-skills)
+  - [ ] [Claude with Amazon Bedrock](https://anthropic.skilljar.com/claude-in-amazon-bedrock)
 
 **What You'll Learn:** AI/ML fundamentals, model training & deployment, data pipelines, feature engineering, MLOps, responsible AI, cloud-based ML services, generative AI, LLMs, agentic AI, prompt engineering
 
+</details>
+
 ---
 
-## Certification Quick Reference
+## 📋 Certification Quick Reference
 
 | Certification | Provider | Cost | Difficulty |
 |--------------|----------|------|------------|
@@ -253,7 +330,7 @@ A skill and certification based learning path for DevOps, SRE, Infrastructure an
 
 ---
 
-## Saving Money on Certifications
+## 💸 Saving Money on Certifications
 
 > These tips can save you hundreds (or thousands) of dollars on your certification journey.
 
@@ -271,11 +348,11 @@ A skill and certification based learning path for DevOps, SRE, Infrastructure an
 
 ---
 
-## Free or Low Cost Resources
+## 🆓 Free or Low Cost Resources
 
 > Free or low cost courses, YouTube channels, and hands-on labs to prep for certifications without spending a dime.
 
-#### Free Courses & Platforms
+#### 💻 Free Courses & Platforms
 - [freeCodeCamp](https://www.freecodecamp.org/) — Full courses on Linux, Python, cloud, networking, and more
 - [freeCodeCamp YouTube](https://www.youtube.com/@freecodecamp) — Full-length certification prep courses (AWS, Docker, Kubernetes, Terraform, Python, and more)
 - [AWS Skill Builder](https://skillbuilder.aws/) — Free AWS training courses and exam prep (some paid content)
@@ -294,7 +371,7 @@ A skill and certification based learning path for DevOps, SRE, Infrastructure an
 - [Red Hat Developer](https://developers.redhat.com/) — Free RHEL developer subscription and learning resources
 - [Python.org Tutorial](https://docs.python.org/3/tutorial/) — Official Python tutorial, free forever
 
-#### YouTube Channels
+#### 📺 YouTube Channels
 - [NetworkChuck](https://www.youtube.com/@NetworkChuck) — Networking, Linux, cloud, and cyber security
 - [TechWorld with Nana](https://www.youtube.com/@TechWorldwithNana) — DevOps, Kubernetes, Docker, Terraform
 - [KodeKloud](https://www.youtube.com/@KodeKloud) — Kubernetes, Docker, Ansible, Terraform
@@ -308,7 +385,7 @@ A skill and certification based learning path for DevOps, SRE, Infrastructure an
 - [That DevOps Guy (Marcel Dempers)](https://www.youtube.com/@introdockercode) — Docker, Kubernetes, and cloud native walkthroughs
 - [Mumshad Mannambeth](https://www.youtube.com/@introdockercode) — CKA, CKAD prep and Kubernetes deep dives
 
-#### Practice Exams & Labs
+#### 🧪 Practice Exams & Labs
 - [Killer.sh](https://killer.sh/) — CKA, CKAD, CKS practice exams (included with exam purchase from Linux Foundation)
 - [AWS Well-Architected Labs](https://wellarchitectedlabs.com/) — Free hands-on AWS labs
 - [Play with Docker](https://labs.play-with-docker.com/) — Free Docker sandbox in the browser
@@ -322,7 +399,7 @@ A skill and certification based learning path for DevOps, SRE, Infrastructure an
 
 ---
 
-## Recommended Reading
+## 📚 Recommended Reading
 
 #### DevOps & Culture
 - *The Phoenix Project* — Gene Kim, Kevin Behr, George Spafford
@@ -364,7 +441,7 @@ A skill and certification based learning path for DevOps, SRE, Infrastructure an
 
 ---
 
-## Community
+## 🌐 Community
 
 Connect with others on the same journey:
 
@@ -391,7 +468,7 @@ Connect with others on the same journey:
 
 ---
 
-## Contributing
+## 🤝 Contributing
 
 Found a great resource or certification path? Open a PR or issue. Please ensure:
 
@@ -403,7 +480,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for full guidelines.
 
 ---
 
-## Support This Project
+## ⭐ Support This Project
 
 If you find this useful, please consider:
 
@@ -412,6 +489,6 @@ If you find this useful, please consider:
 - **Contribute** — submit a PR with a new cert, resource, or correction
 - **Open an issue** — suggest a new track, flag outdated info, or request a feature
 
-## License
+## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
