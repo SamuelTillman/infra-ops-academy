@@ -37,7 +37,7 @@ A skill and certification based learning path for DevOps, SRE, Infrastructure an
 
 [How to Use This Repo](#-how-to-use-this-repo) | [Skill Tracks](#-skill-tracks) | [Certification Quick Reference](#-certification-quick-reference) | [Saving Money](#-saving-money-on-certifications) | [Free or Low Cost Resources](#-free-or-low-cost-resources) | [Recommended Reading](#-recommended-reading) | [Community](#-community) | [Contributing](#-contributing) | [License](#-license)
 
-**Skill Tracks:** [1. Tech Fundamentals](#track-1) | [2. Linux Admin](#track-2) | [3. Git & SCM](#track-3) | [4. Scripting](#track-4) | [5. Cloud](#track-5) | [6. IaC](#track-6) | [7. CI/CD](#track-7) | [8. Containers & K8s](#track-8) | [9. Observability](#track-9) | [10. Security](#track-10) | [11. AI/ML](#track-11) | [12. API](#track-12) | [13. PM & ITSM](#track-13)
+**Skill Tracks:** [1. Tech Fundamentals](#1-tech-fundamentals) | [2. Linux Admin](#2-linux-administration) | [3. Git & SCM](#3-git--source-control-management) | [4. Scripting](#4-scripting--automation) | [5. Cloud](#5-cloud-platforms) | [6. IaC](#6-infrastructure-as-code) | [7. CI/CD](#7-cicd-pipelines) | [8. Containers & K8s](#8-containers--kubernetes) | [9. Observability](#9-observability--monitoring) | [10. Security](#10-security--devsecops) | [11. AI/ML](#11-ai--machine-learning) | [12. API](#12-api-development--testing) | [13. PM & ITSM](#13-project-management--itsm)
 
 ---
 
@@ -52,12 +52,8 @@ A skill and certification based learning path for DevOps, SRE, Infrastructure an
 
 ## 🚀 Skill Tracks
 
-> Click any track below to expand it and see the certifications, costs, and what you'll learn.
-
-<details id="track-1">
-<summary><strong>1. Tech Fundamentals</strong> — 3 certs | ~$1,499</summary>
-
-<br>
+### 1. Tech Fundamentals
+**3 certs | ~$1,499**
 
 ![CompTIA](https://img.shields.io/badge/CompTIA-C8202F?style=flat&logoColor=white)
 
@@ -68,12 +64,10 @@ A skill and certification based learning path for DevOps, SRE, Infrastructure an
 
 **What You'll Learn:** Hardware, operating systems, troubleshooting, network architecture, protocols, IP addressing, security threats & vulnerabilities, incident response, governance & compliance
 
-</details>
+---
 
-<details id="track-2">
-<summary><strong>2. Linux Administration</strong> — 3 certs | ~$1,269</summary>
-
-<br>
+### 2. Linux Administration
+**3 certs | ~$1,269**
 
 ![CompTIA](https://img.shields.io/badge/CompTIA-C8202F?style=flat&logoColor=white) ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=flat&logo=redhat&logoColor=white)
 
@@ -84,12 +78,10 @@ A skill and certification based learning path for DevOps, SRE, Infrastructure an
 
 **What You'll Learn:** Linux system administration, command line, file systems, user management, services, shell scripting, automation with Ansible (RHCE)
 
-</details>
+---
 
-<details id="track-3">
-<summary><strong>3. Git & Source Control Management</strong> — 2 certs | ~$198</summary>
-
-<br>
+### 3. Git & Source Control Management
+**2 certs | ~$198**
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
@@ -99,12 +91,10 @@ A skill and certification based learning path for DevOps, SRE, Infrastructure an
 
 **What You'll Learn:** Version control with Git, branching strategies, pull requests, GitHub workflows, CI/CD with Actions, code security scanning, repository administration
 
-</details>
+---
 
-<details id="track-4">
-<summary><strong>4. Scripting & Automation</strong> — 2 certs | ~$354</summary>
-
-<br>
+### 4. Scripting & Automation
+**2 certs | ~$354**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
@@ -114,12 +104,10 @@ A skill and certification based learning path for DevOps, SRE, Infrastructure an
 
 **What You'll Learn:** Python fundamentals, data structures, scripting, automation, working with APIs, file handling, error handling, object-oriented programming
 
-</details>
+---
 
-<details id="track-5">
-<summary><strong>5. Cloud Platforms</strong> — 7 certs | ~$1,400</summary>
-
-<br>
+### 5. Cloud Platforms
+**7 certs | ~$1,400**
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
 
@@ -144,12 +132,10 @@ A skill and certification based learning path for DevOps, SRE, Infrastructure an
 
 > 50% discount on your next exam after earning any AWS certification.
 
-</details>
+---
 
-<details id="track-6">
-<summary><strong>6. Infrastructure as Code</strong> — 2 certs | ~$365.50</summary>
-
-<br>
+### 6. Infrastructure as Code
+**2 certs | ~$365.50**
 
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 
@@ -159,12 +145,10 @@ A skill and certification based learning path for DevOps, SRE, Infrastructure an
 
 **What You'll Learn:** IaC concepts, Terraform CLI, providers, resources, state management, modules, advanced module design, workspaces, collaboration workflows, Sentinel policies, production patterns
 
-</details>
+---
 
-<details id="track-7">
-<summary><strong>7. CI/CD Pipelines</strong> — 2 certs | ~$399</summary>
-
-<br>
+### 7. CI/CD Pipelines
+**2 certs | ~$399**
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
 
@@ -174,12 +158,10 @@ A skill and certification based learning path for DevOps, SRE, Infrastructure an
 
 **What You'll Learn:** Build/test/deploy automation, pipeline design, workflow triggers, artifact management, secrets handling, deployment strategies, pipeline security
 
-</details>
+---
 
-<details id="track-8">
-<summary><strong>8. Containers & Kubernetes</strong> — 4 certs | ~$1,235</summary>
-
-<br>
+### 8. Containers & Kubernetes
+**4 certs | ~$1,235**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
@@ -191,12 +173,10 @@ A skill and certification based learning path for DevOps, SRE, Infrastructure an
 
 **What You'll Learn:** Container fundamentals, Dockerfiles, image management, Kubernetes architecture, pods, deployments, services, networking, storage, RBAC, cluster administration
 
-</details>
+---
 
-<details id="track-9">
-<summary><strong>9. Observability & Monitoring</strong> — 8 certs | ~$1,100</summary>
-
-<br>
+### 9. Observability & Monitoring
+**8 certs | ~$1,100**
 
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white) ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white) ![New Relic](https://img.shields.io/badge/New%20Relic-008C99?style=flat&logo=newrelic&logoColor=white)
 
@@ -212,12 +192,10 @@ A skill and certification based learning path for DevOps, SRE, Infrastructure an
 
 **What You'll Learn:** Metrics, logs, and traces (the three pillars), PromQL, alerting, dashboards, distributed tracing, APM, SLIs/SLOs, incident response workflows
 
-</details>
+---
 
-<details id="track-10">
-<summary><strong>10. Security & DevSecOps</strong> — 5 certs | ~$1,643</summary>
-
-<br>
+### 10. Security & DevSecOps
+**5 certs | ~$1,643**
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
@@ -230,12 +208,10 @@ A skill and certification based learning path for DevOps, SRE, Infrastructure an
 
 **What You'll Learn:** Cloud architecture, data security, platform & infrastructure security, application security, operations, legal & compliance
 
-</details>
+---
 
-<details id="track-11">
-<summary><strong>11. AI & Machine Learning</strong> — 8 certs | ~$1,325</summary>
-
-<br>
+### 11. AI & Machine Learning
+**8 certs | ~$1,325**
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white) ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=flat&logo=nvidia&logoColor=white)
 
@@ -262,12 +238,10 @@ A skill and certification based learning path for DevOps, SRE, Infrastructure an
 
 **What You'll Learn:** AI/ML fundamentals, model training & deployment, data pipelines, feature engineering, MLOps, responsible AI, cloud-based ML services, generative AI, LLMs, agentic AI, prompt engineering
 
-</details>
+---
 
-<details id="track-12">
-<summary><strong>12. API Development & Testing</strong> — 5 certs | ~$650</summary>
-
-<br>
+### 12. API Development & Testing
+**5 certs | ~$650**
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![MuleSoft](https://img.shields.io/badge/MuleSoft-00A1E0?style=flat&logoColor=white)
 
@@ -280,12 +254,10 @@ A skill and certification based learning path for DevOps, SRE, Infrastructure an
 
 **What You'll Learn:** API fundamentals, REST & HTTP methods, API testing & automation, Postman collections & environments, CI/CD integration via CLI, API lifecycle management, integration patterns, MuleSoft Anypoint Platform, API-led connectivity
 
-</details>
+---
 
-<details id="track-13">
-<summary><strong>13. Project Management & ITSM</strong> — 5 certs | ~$1,245</summary>
-
-<br>
+### 13. Project Management & ITSM
+**5 certs | ~$1,245**
 
 ![Atlassian](https://img.shields.io/badge/Atlassian-0052CC?style=flat&logo=atlassian&logoColor=white)
 
@@ -297,8 +269,6 @@ A skill and certification based learning path for DevOps, SRE, Infrastructure an
 - [ ] [Atlassian Certified in Managing Jira Projects for Cloud (ACP-620)](https://community.atlassian.com/learning/certifications) — ~$249
 
 **What You'll Learn:** Jira project configuration, workflows, boards (Scrum/Kanban), Confluence administration, IT service management, incident & change management, SLAs, cloud organization administration, user provisioning, security policies
-
-</details>
 
 ---
 
