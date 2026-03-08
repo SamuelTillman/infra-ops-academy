@@ -37,6 +37,8 @@ A skill and certification based learning path for DevOps, SRE, Infrastructure an
 
 [How to Use This Repo](#-how-to-use-this-repo) | [Skill Tracks](#-skill-tracks) | [Certification Quick Reference](#-certification-quick-reference) | [Saving Money](#-saving-money-on-certifications) | [Free or Low Cost Resources](#-free-or-low-cost-resources) | [Recommended Reading](#-recommended-reading) | [Community](#-community) | [Contributing](#-contributing) | [License](#-license)
 
+**Skill Tracks:** [1. Tech Fundamentals](#track-1) | [2. Linux Admin](#track-2) | [3. Git & SCM](#track-3) | [4. Scripting](#track-4) | [5. Cloud](#track-5) | [6. IaC](#track-6) | [7. CI/CD](#track-7) | [8. Containers & K8s](#track-8) | [9. Observability](#track-9) | [10. Security](#track-10) | [11. AI/ML](#track-11) | [12. API](#track-12) | [13. PM & ITSM](#track-13)
+
 ---
 
 ## 🎓 How to Use This Repo
@@ -52,7 +54,7 @@ A skill and certification based learning path for DevOps, SRE, Infrastructure an
 
 > Click any track below to expand it and see the certifications, costs, and what you'll learn.
 
-<details>
+<details id="track-1">
 <summary><strong>1. Tech Fundamentals</strong> — 3 certs | ~$1,499</summary>
 
 <br>
@@ -68,7 +70,7 @@ A skill and certification based learning path for DevOps, SRE, Infrastructure an
 
 </details>
 
-<details>
+<details id="track-2">
 <summary><strong>2. Linux Administration</strong> — 3 certs | ~$1,269</summary>
 
 <br>
@@ -84,7 +86,7 @@ A skill and certification based learning path for DevOps, SRE, Infrastructure an
 
 </details>
 
-<details>
+<details id="track-3">
 <summary><strong>3. Git & Source Control Management</strong> — 2 certs | ~$198</summary>
 
 <br>
@@ -99,7 +101,7 @@ A skill and certification based learning path for DevOps, SRE, Infrastructure an
 
 </details>
 
-<details>
+<details id="track-4">
 <summary><strong>4. Scripting & Automation</strong> — 2 certs | ~$354</summary>
 
 <br>
@@ -114,7 +116,7 @@ A skill and certification based learning path for DevOps, SRE, Infrastructure an
 
 </details>
 
-<details>
+<details id="track-5">
 <summary><strong>5. Cloud Platforms</strong> — 7 certs | ~$1,400</summary>
 
 <br>
@@ -144,7 +146,7 @@ A skill and certification based learning path for DevOps, SRE, Infrastructure an
 
 </details>
 
-<details>
+<details id="track-6">
 <summary><strong>6. Infrastructure as Code</strong> — 2 certs | ~$365.50</summary>
 
 <br>
@@ -159,7 +161,7 @@ A skill and certification based learning path for DevOps, SRE, Infrastructure an
 
 </details>
 
-<details>
+<details id="track-7">
 <summary><strong>7. CI/CD Pipelines</strong> — 2 certs | ~$399</summary>
 
 <br>
@@ -174,7 +176,7 @@ A skill and certification based learning path for DevOps, SRE, Infrastructure an
 
 </details>
 
-<details>
+<details id="track-8">
 <summary><strong>8. Containers & Kubernetes</strong> — 4 certs | ~$1,235</summary>
 
 <br>
@@ -191,7 +193,7 @@ A skill and certification based learning path for DevOps, SRE, Infrastructure an
 
 </details>
 
-<details>
+<details id="track-9">
 <summary><strong>9. Observability & Monitoring</strong> — 8 certs | ~$1,100</summary>
 
 <br>
@@ -212,7 +214,7 @@ A skill and certification based learning path for DevOps, SRE, Infrastructure an
 
 </details>
 
-<details>
+<details id="track-10">
 <summary><strong>10. Security & DevSecOps</strong> — 5 certs | ~$1,643</summary>
 
 <br>
@@ -230,7 +232,7 @@ A skill and certification based learning path for DevOps, SRE, Infrastructure an
 
 </details>
 
-<details>
+<details id="track-11">
 <summary><strong>11. AI & Machine Learning</strong> — 8 certs | ~$1,325</summary>
 
 <br>
@@ -262,7 +264,7 @@ A skill and certification based learning path for DevOps, SRE, Infrastructure an
 
 </details>
 
-<details>
+<details id="track-12">
 <summary><strong>12. API Development & Testing</strong> — 5 certs | ~$650</summary>
 
 <br>
@@ -280,7 +282,7 @@ A skill and certification based learning path for DevOps, SRE, Infrastructure an
 
 </details>
 
-<details>
+<details id="track-13">
 <summary><strong>13. Project Management & ITSM</strong> — 5 certs | ~$1,245</summary>
 
 <br>
