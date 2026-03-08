@@ -37,8 +37,6 @@ A skill and certification based learning path for DevOps, SRE, Infrastructure an
 
 [How to Use This Repo](#-how-to-use-this-repo) | [Skill Tracks](#-skill-tracks) | [Certification Quick Reference](#-certification-quick-reference) | [Saving Money](#-saving-money-on-certifications) | [Free or Low Cost Resources](#-free-or-low-cost-resources) | [Recommended Reading](#-recommended-reading) | [Community](#-community) | [Contributing](#-contributing) | [License](#-license)
 
-**Skill Tracks:** [1. Tech Fundamentals](#1-tech-fundamentals) | [2. Linux Administration](#2-linux-administration) | [3. Git & SCM](#3-git--source-control-management) | [4. Scripting & Automation](#4-scripting--automation) | [5. Cloud Platforms](#5-cloud-platforms) | [6. Infrastructure as Code](#6-infrastructure-as-code) | [7. CI/CD Pipelines](#7-cicd-pipelines) | [8. Containers & Kubernetes](#8-containers--kubernetes) | [9. Observability & Monitoring](#9-observability--monitoring) | [10. Security & DevSecOps](#10-security--devsecops) | [11. AI & Machine Learning](#11-ai--machine-learning) | [12. API Development & Testing](#12-api-development--testing) | [13. Project Management & ITSM](#13-project-management--itsm)
-
 ---
 
 ## 🎓 How to Use This Repo
