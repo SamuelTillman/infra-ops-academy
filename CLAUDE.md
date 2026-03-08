@@ -4,14 +4,16 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-This is a curated Markdown-only repository — "The Infrastructure & Operations Academy." It maps infrastructure/ops career skill tracks to industry certifications with pricing, free resources, and progress tracking. Content lives in both `README.md` (single-page GitHub view) and `docs/` (MkDocs site).
+This is "The Infrastructure & Operations Academy" — a curated, self-paced curriculum mapping infrastructure/ops career skill tracks to industry certifications with pricing, free resources, study guides, and progress tracking. The site lives at [infraopsacademy.com](https://infraopsacademy.com/). Content lives in both `README.md` (single-page GitHub view) and `docs/` (MkDocs Material site).
 
 ## Repository Structure
 
 - `README.md` — The entire academy content (single-page view for GitHub)
 - `docs/` — MkDocs site pages (same content, split into separate pages)
-- `docs/index.md` — Site homepage
+- `docs/index.md` — Site homepage with stats and track summary table
 - `docs/tracks/` — Individual skill track pages (13 tracks)
+- `docs/certifications.md` — Certification quick reference table
+- `docs/CNAME` — Custom domain (infraopsacademy.com)
 - `mkdocs.yml` — MkDocs Material theme configuration
 - `CONTRIBUTING.md` — Contributor guidelines
 - `.github/ISSUE_TEMPLATE/` — Templates for suggesting certs, resources, and reporting issues
@@ -49,9 +51,15 @@ This is a curated Markdown-only repository — "The Infrastructure & Operations 
 - Keep Atlassian certs ordered by ACP number
 - Exclude certs with unpublished/unavailable pricing
 
+### Study Guides
+- Each track has a "Study Guides" section with book recommendations
+- Publishers: Sybex (CompTIA/AWS), O'Reilly (cloud-native/DevOps), Pearson (Red Hat)
+- All books link to Amazon
+- Format: `[*Book Title*](amazon-link) — Author (Publisher, Edition, Year)`
+
 ### MkDocs Site
-- Site URL: `https://samueltillman.github.io/infra-ops-academy/`
-- Theme: Material for MkDocs with light/dark mode toggle
+- Site URL: `https://infraopsacademy.com/` (custom domain via Route 53 + GitHub Pages)
+- Theme: Material for MkDocs with light/dark mode toggle, tabbed navigation, search, footer
 - Auto-deploys via GitHub Actions on push to `main`
 - Navigation is defined in `mkdocs.yml` under the `nav` key
 - Uses admonitions (`!!! note`, `!!! tip`) instead of blockquotes for callouts
