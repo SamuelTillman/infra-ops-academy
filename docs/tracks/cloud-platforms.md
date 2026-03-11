@@ -35,7 +35,7 @@ Cloud computing concepts, core services (compute, storage, networking, databases
 ## Suggested Learning Path
 
 1. Start with [AWS Skill Builder](https://skillbuilder.aws/) free courses and [AWS Workshops](https://workshops.aws/) for hands-on practice
-2. Watch [Adrian Cantrill](https://www.youtube.com/@adriancantrill) or [freeCodeCamp's AWS courses](https://www.youtube.com/@freecodecamp) for deep dives
+2. Watch [Adrian Cantrill](https://learn.cantrill.io/p/aws-certified-solutions-architect-associate-saa-c03) ($40) or [freeCodeCamp's AWS courses](https://www.youtube.com/@freecodecamp) for deep dives
 3. Take Cloud Practitioner first, then Solutions Architect Associate, then branch into your specialty
 
 ## Study Guides
