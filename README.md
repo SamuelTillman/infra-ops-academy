@@ -315,6 +315,7 @@ A skill and certification based learning path for DevOps, SRE, Infrastructure an
 - [*(ISC)2 CCSP Certified Cloud Security Professional Official Study Guide*](https://www.amazon.com/Certified-Cloud-Security-Professional-Official/dp/1119909376) — Mike Chapple, David Seidl (Sybex, 3rd Edition, 2022)
 - [*Certified Kubernetes Security Specialist (CKS) Study Guide*](https://www.amazon.com/Certified-Kubernetes-Security-Specialist-Depth/dp/1098132971) — Benjamin Muschko (O'Reilly, 1st Edition, 2023)
 - [*Hacking Kubernetes*](https://www.amazon.com/Hacking-Kubernetes-Threat-Driven-Analysis-Defense/dp/1492081736) — Andrew Martin, Michael Hausenblas (O'Reilly, 1st Edition, 2021)
+- [KeyDrift](https://keydrift.dev) — Scans deployed HTML and JavaScript for exposed secrets while recognizing public browser credentials that should not be treated as leaks.
 
 ---
 
