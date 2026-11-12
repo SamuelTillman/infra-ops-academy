@@ -185,7 +185,7 @@ A skill and certification based learning path for DevOps, SRE, Infrastructure an
 **Study Guides:**
 - [*AWS Certified Cloud Practitioner Study Guide with 500 Practice Test Questions: Foundational (CLF-C02) Exam*](https://www.amazon.com/Certified-Cloud-Practitioner-Practice-Questions/dp/1394235631) — Ben Piper, David Clinton (Sybex, 2nd Edition, 2023)
 - [*AWS Certified Solutions Architect Study Guide with 900 Practice Test Questions: Associate (SAA-C03) Exam*](https://www.amazon.com/Certified-Solutions-Architect-Study-Guide/dp/1119982626) — Ben Piper, David Clinton (Sybex, 4th Edition, 2022)
-- [*AWS Certified SysOps Administrator Study Guide: Associate SOA-C02 Exam*](https://www.amazon.com/Certified-SysOps-Administrator-Study-Guide/dp/1119813107) — Jorge T. Negron, Christoffer Jones, George Sawyer (Sybex, 3rd Edition, 2024)
+- [*AWS Certified SysOps Administrator Study Guide: Associate SOA-C02 Exam*](https://www.amazon.com/Certified-SysOps-Administrator-Study-Guide/dp/1119813107) — Jorge T. Negron, Christoffer Jones, George Sawyer (Sybex, 3rd Edition, 2024). Written for SOA-C02; the CloudOps Engineer exam is now SOA-C03, so check the [SOA-C02 vs SOA-C03 comparison](https://docs.aws.amazon.com/aws-certification/latest/sysops-administrator-associate-03/sysops-administrator-associate-03-comparison.html)
 - [*AWS Certified Developer Study Guide: Associate (DVA-C02) Exam*](https://www.amazon.com/AWS-Certified-Developer-Study-Guide/dp/1394274807) — Brandon Rich (Sybex, 2nd Edition, 2025)
 - [*AWS Certified Data Engineer Study Guide: Associate (DEA-C01) Exam*](https://www.amazon.com/Certified-Data-Engineer-Study-Guide/dp/1394286589) — Syed Humair et al. (Sybex, 1st Edition, 2025)
 - [*AWS Certified Advanced Networking Study Guide: Specialty (ANS-C01) Exam*](https://www.amazon.com/Certified-Advanced-Networking-Study-Guide/dp/1394171854) — Todd Montgomery (Sybex, 2nd Edition, 2023)
@@ -311,7 +311,7 @@ A skill and certification based learning path for DevOps, SRE, Infrastructure an
 3. Take GitHub Advanced Security -> KCSA -> AWS Security Specialty -> CKS -> CCSP (building on each)
 
 **Study Guides:**
-- [*AWS Certified Security Study Guide: Specialty (SCS-C02) Exam*](https://www.amazon.com/AWS-Certified-Security-Study-Guide/dp/139425346X) — Mauricio Munoz et al. (Sybex, 2nd Edition, 2025)
+- [*AWS Certified Security Study Guide: Specialty (SCS-C02) Exam*](https://www.amazon.com/AWS-Certified-Security-Study-Guide/dp/139425346X) — Mauricio Munoz et al. (Sybex, 2nd Edition, 2025). Written for SCS-C02; the exam has been SCS-C03 since 2 December 2025, so check the [SCS-C02 vs SCS-C03 comparison](https://docs.aws.amazon.com/aws-certification/latest/security-specialty-03/security-specialty-03-appendix-b.html)
 - [*(ISC)2 CCSP Certified Cloud Security Professional Official Study Guide*](https://www.amazon.com/Certified-Cloud-Security-Professional-Official/dp/1119909376) — Mike Chapple, David Seidl (Sybex, 3rd Edition, 2022)
 - [*Certified Kubernetes Security Specialist (CKS) Study Guide*](https://www.amazon.com/Certified-Kubernetes-Security-Specialist-Depth/dp/1098132971) — Benjamin Muschko (O'Reilly, 1st Edition, 2023)
 - [*Hacking Kubernetes*](https://www.amazon.com/Hacking-Kubernetes-Threat-Driven-Analysis-Defense/dp/1492081736) — Andrew Martin, Michael Hausenblas (O'Reilly, 1st Edition, 2021)
